@@ -1,0 +1,24 @@
+{
+  "name": "leap-seconds-list",
+  "version": "1.0.0",
+  "description": "The list of leap seconds declared at https://www.ietf.org/timezones/data/leap-seconds.list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampathsris/leap-seconds-list.git"
+  },
+  "keywords": [
+    "leap-seconds",
+    "leap",
+    "seconds"
+  ],
+  "author": "Sampath Sitinamaluwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampathsris/leap-seconds-list/issues"
+  },
+  "homepage": "https://github.com/sampathsris/leap-seconds-list#readme"
+}
