@@ -4,7 +4,8 @@
   "description": "The list of leap seconds declared at https://www.ietf.org/timezones/data/leap-seconds.list.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretest": "node_modules/.bin/leap-seconds-list-creator list.json"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/sampathsris/leap-seconds-list/issues"
   },
-  "homepage": "https://github.com/sampathsris/leap-seconds-list#readme"
+  "homepage": "https://github.com/sampathsris/leap-seconds-list#readme",
+  "devDependencies": {
+    "leap-seconds-list-creator": "^0.1.3"
+  }
 }
