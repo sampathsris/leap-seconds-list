@@ -4,7 +4,7 @@
   "description": "The list of leap seconds declared at https://www.ietf.org/timezones/data/leap-seconds.list.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No test specified\"",
     "pretest": "node_modules/.bin/leap-seconds-list-creator list.json"
   },
   "repository": {
