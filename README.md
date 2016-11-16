@@ -1,5 +1,5 @@
 # leap-seconds-list
-The list of leap seconds declared at https://www.ietf.org/timezones/data/leap-seconds.list.
+The list of leap seconds declared at https://www.ietf.org/timezones/data/leap-seconds.list. This package is created by using [leap-seconds-list-creator](https://www.npmjs.com/package/leap-seconds-list-creator).
 
 # installation
 ```
