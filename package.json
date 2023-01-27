@@ -1,6 +1,6 @@
 {
   "name": "leap-seconds-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The list of leap seconds declared at https://www.ietf.org/timezones/data/leap-seconds.list.",
   "main": "index.js",
   "types": "index.d.ts",
